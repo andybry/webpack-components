@@ -1,0 +1,53 @@
+{
+  "component": "Group",
+  "data": {},
+  "componentChildren": [
+    {
+      "component": "Group",
+      "data": {},
+      "componentChildren": [
+        {
+          "component": "Header",
+          "data": {
+            "title": "Heading 1"
+          },
+          "componentChildren": []
+        },
+        {
+          "component": "Header",
+          "data": {
+            "title": "Heading 2"
+          },
+          "componentChildren": []
+        }
+      ]
+    },
+    {
+      "component": "Group",
+      "data": {},
+      "componentChildren": [
+        {
+          "component": "Header",
+          "data": {
+            "title": "Heading 3"
+          },
+          "componentChildren": []
+        },
+        {
+          "component": "Header",
+          "data": {
+            "title": "Heading 4"
+          },
+          "componentChildren": []
+        },
+        {
+          "component": "Header",
+          "data": {
+            "title": "Heading 5"
+          },
+          "componentChildren": []
+        }
+      ]
+    }
+  ]
+}
